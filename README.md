@@ -1,5 +1,8 @@
 ### Hi there 👋
-![CodeWars](https://www.codewars.com/users/ahmd/badges/large)
+- 🌱 I’m currently learning Python
+- 📫 How to reach me: ahmedpalhr0595@gmail.com
+- ⚡ Fun fact: Gamer 🎮
+![CodeWars](https://www.codewars.com/users/ahmd/badges/micr)
 
 <!--
 - 🔭 I’m currently working on ...
