@@ -1,4 +1,5 @@
 ### Hi there 👋
+![CodeWars](https://www.codewars.com/users/ahmd/badges/large)
 
 <!--
 - 🔭 I’m currently working on ...
