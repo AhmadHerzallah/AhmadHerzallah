@@ -2,7 +2,7 @@
 - 🌱 I’m currently learning Python
 - 📫 How to reach me: ahmedpalhr0595@gmail.com
 - ⚡ Fun fact: Gamer 🎮
-![CodeWars](https://www.codewars.com/users/ahmd/badges/micr)
+![CodeWars](https://www.codewars.com/users/ahmd/badges/micro)
 
 <!--
 - 🔭 I’m currently working on ...
