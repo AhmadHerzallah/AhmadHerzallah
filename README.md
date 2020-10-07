@@ -17,7 +17,7 @@ Hi, I'm @AhmadHerzallah 🌌
 ![](https://img.shields.io/badge/:-Windows-informational?style=flat&logo=windows&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/:-GitHub-informational?style=flat&logo=github&logoColor=white&color=181717)
 ![](https://img.shields.io/badge/:-Git-informational?style=flat&logo=git&logoColor=white&color=F05032)
-![](https://img.shields.io/badge/Editor-Visual%20studio%20code-blue.svg?logo=visual-studio-code)
+![](https://img.shields.io/badge/Editor-Visual%20Studio%20Code-blue.svg?logo=visual-studio-code)
 ![](https://badgen.net/badge/icon/visualstudio?icon=visualstudio&label)
 ![](https://img.shields.io/badge/:-Python-informational?style=flat&logo=python&logoColor=white&color=3776AB)
 
