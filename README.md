@@ -19,3 +19,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ahmedpalhr0595@gmail.com
 - ⚡ Fun fact: Gamer 🎮
 -->
+<img src="https://github-readme-stats.vercel.app/api?username=AhmadHerzallah&show_icons=true&theme=gotham" alt="c0sm0void">
