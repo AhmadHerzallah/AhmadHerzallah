@@ -9,7 +9,7 @@ Hi, I'm @AhmadHerzallah 🌌
 **miscellaneous:😂**
 - 💬 Ask me about anything, I am happy to help.
 - ⚡ Fun fact: Gamer 🎮
-- 🌱 I’m currently learning Python
+<!-- - 🌱 I’m currently learning Python -->
 - ![CodeWars](https://www.codewars.com/users/ahmd/badges/micro)
 
 ## Something I know🤔🛠️
