@@ -3,6 +3,7 @@
 Hi, I'm @AhmadHerzallah 🌌
 
 <img align="left" alt="@AhmadHerzallah's Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" /> itsahmd#0317
+ [![Gmail Badge](https://img.shields.io/badge/-ahmedpalhr0595@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ahmedpalhr0595@gmail.com)](mailto:ahmedpalhr0595@gmail.com)
 
 ![](https://visitor-badge.glitch.me/badge?page_id=AhmadHerzallah.AhmadHerzallah)
 
