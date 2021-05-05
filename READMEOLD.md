@@ -25,7 +25,8 @@ Hi, I'm @AhmadHerzallah 🌌
 
 ## Leveling up!📊
 ![Ahmad Herzallah's GitHub stats](https://github-readme-stats.vercel.app/api?username=AhmadHerzallah&show_icons=true&theme=nightowl)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmadHerzallah&layout=compact&theme=nightowl)]
+<br />
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmadHerzallah&layout=compact&theme=nightowl)
 
 <!-- ![Ahmad Herzallah's GitHub stats](https://github-readme-stats.vercel.app/api?username=AhmadHerzallah&show_icons=true&theme=nightowl) -->
 
