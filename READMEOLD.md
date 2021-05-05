@@ -24,7 +24,7 @@ Hi, I'm @AhmadHerzallah 🌌
 ![](https://img.shields.io/badge/:-Python-informational?style=flat&logo=python&logoColor=white&color=3776AB)
 
 ## Leveling up!📊
-[![Ahmad's GitHub stats](https://github-readme-stats.vercel.app/api?username=AhmadHerzallah)](https://github.com/anuraghazra/github-readme-stats)
+![Ahmad Herzallah's GitHub stats](https://github-readme-stats.vercel.app/api?username=AhmadHerzallah&show_icons=true&theme=nightowl)
 
-<img src="https://github-readme-stats.vercel.app/api?username=AhmadHerzallah&show_icons=true&theme=gotham" alt="AhmadHerzallah">
+<img src="https://github-readme-stats.vercel.app/api?username=AhmadHerzallah&show_icons=true&theme=nightowl" alt="AhmadHerzallah">
 <!-- https://github-readme-stats.vercel.app/api?username=AhmadHerzallah&show_icons=true&theme=gotham -->
