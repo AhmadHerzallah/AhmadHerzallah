@@ -3,7 +3,6 @@
 ### Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
-
 - [My Hacktoberfest Experience](https://dev.to/ahmadherzallah/my-hacktoberfest-experience-1e50)
 - [Theme Selector](https://dev.to/ahmadherzallah/theme-selector-594p)
 <!-- BLOG-POST-LIST:END -->
