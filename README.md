@@ -10,6 +10,7 @@
  [![Gmail Badge](https://img.shields.io/badge/-ahmad.ehabherzallah@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ahmedpalhr0595@gmail.com)](mailto:ahmad.ehabherzallah@gmail.com)
 
 ![](https://visitor-badge.glitch.me/badge?page_id=AhmadHerzallah.AhmadHerzallah)
+**miscellaneous:**
 
 - 💬 Ask me about anything, I am happy to help.
 - ⚡ Fun fact: Gamer 🎮
