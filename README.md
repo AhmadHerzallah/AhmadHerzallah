@@ -3,7 +3,6 @@
 ### Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
-- [My experience in programming as a Gazan 16-year-old teenager.](https://aherzallah.medium.com/my-experience-in-programming-as-a-gazan-16-year-old-teenager-81178dfa1147?source=rss-1cfe80ab7c54------2)
 - [My Hacktoberfest Experience](https://dev.to/ahmadherzallah/my-hacktoberfest-experience-1e50)
 - [Theme Selector](https://dev.to/ahmadherzallah/theme-selector-594p)
 <!-- BLOG-POST-LIST:END -->
