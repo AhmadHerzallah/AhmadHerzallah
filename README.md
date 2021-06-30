@@ -12,13 +12,14 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=AhmadHerzallah.AhmadHerzallah)
 <br />
-<br />
 
 **miscellaneous:**
 
 - 💬 Ask me about anything, I am happy to help.
 - ⚡ Fun fact: Gamer 🎮
 - ![CodeWars](https://www.codewars.com/users/ahmd/badges/micro)
+- Codeforces: [itsahmd25](https://codeforces.com/profile/itsahmd25)
+- AtCoder: [itsahmd25](https://atcoder.jp/users/itsahmd25)
 
 ## Somethings I know 🤔🛠️
 
