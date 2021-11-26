@@ -1,4 +1,4 @@
-<!--<h1 align="center">Hi 👋, I'm Ahmad Herzallah</h1>
+<h1 align="center">Hi 👋, I'm Ahmad Herzallah</h1>
 
 ### Blogs posts
 
@@ -34,4 +34,3 @@
 ## Leveling up!📊
 
 <img src="https://github-readme-stats.vercel.app/api?username=AhmadHerzallah&show_icons=true&theme=gotham" alt="AhmadHerzallah">
-  -->
