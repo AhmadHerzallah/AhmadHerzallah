@@ -6,7 +6,7 @@ dibble dabbling in coding.
 
 * 🌍  I'm based in Palestine
 * ✉️  You can contact me at [ahmad.ehabherzallah@gmail.com](mailto:ahmad.ehabherzallah@gmail.com)
-* 🧠  I'm learning AI
+
 
 ### Skills
 
